@@ -21,4 +21,5 @@
 
 type A {
  field: ImportedType
+}
 ```
